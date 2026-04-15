@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.74.0](https://github.com/googleapis/python-genai/compare/v1.73.1...v1.74.0) (2026-04-15)
+
+
+### Features
+
+* Add gemini-3.1-flash-tts-preview model to options ([8bdc1c3](https://github.com/googleapis/python-genai/commit/8bdc1c353d987a5a18282fd2265950257891d308))
+
+
+### Documentation
+
+* Regenerate docs for 1.73.1 ([2fb714b](https://github.com/googleapis/python-genai/commit/2fb714b3fefa3a8972da57ef0675116b67e4808e))
+
 ## [1.73.1](https://github.com/googleapis/python-genai/compare/v1.73.0...v1.73.1) (2026-04-14)
 
 
